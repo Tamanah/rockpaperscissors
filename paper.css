@@ -1,0 +1,37 @@
+.gameDiv { 
+  color:white;
+    height: 100vh;
+    background-color: black;
+   font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   
+   
+    
+}
+
+* {
+    margin: auto;
+    padding: auto;
+
+}
+
+.pickAChoice { 
+    margin: 5px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 2px solid black;
+    font-size: 13;
+    font-family: monospace;
+}
+
+.option2 { 
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
